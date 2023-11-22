@@ -1,0 +1,13 @@
+jupyter~=1.0
+jupyter-core~=5.3
+jupyter-contrib-nbextensions~=0.7
+notebook~=6.5
+matplotlib~=3.7
+numpy~=1.25
+pandas~=2.0
+scipy~=1.11
+seaborn~=0.12
+tqdm~=4.65
+typing-extensions~=4.7
+widgetsnbextension~=4.0
+openpyxl~=3.1
